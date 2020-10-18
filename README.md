@@ -6,13 +6,16 @@ This document describes how to install OmniROM on Motorola One Hyper.
 
 ### Specs
 
-* [Motorola UK](https://www.motorola.co.uk/smartphones-motorola-one-hyper/p).
+* [Motorola UK][specs].
 * [Lenovo UK](https://www.lenovo.com/gb/en/phones/moto/motorola-one/motorola-one-hyper/p/PMIPMCI21MJ).
 * [GSMArena](https://www.gsmarena.com/motorola_one_hyper-9944.php).
 
+[specs]: https://www.motorola.co.uk/smartphones-motorola-one-hyper/p
+
 ### Disinfecting
 
-[Cleaning your Motorola phone](https://support.motorola.com/uk/en/products/cell-phones/motorola-one-family/motorola-one-hyper/documents/MS149245)
+From [Cleaning your Motorola phone](https://support.motorola.com/uk/en/products/cell-phones/motorola-one-family/motorola-one-hyper/documents/MS149245):
+
 > It is OK to use disinfecting wipes with 70% isopropyl alcohol to gently wipe your display.
 > When disinfecting or cleaning your device, we recommend that you turn it off and avoid getting any moisture in its openings, including the charging port, headphone jack, microphones and speakers.
 >
@@ -20,6 +23,18 @@ This document describes how to install OmniROM on Motorola One Hyper.
 
 > While this does not disinfect your Motorola phone, the best way to keep your Motorola phone clean is to wipe it thoroughly with a dry soft cloth.
 > Avoid abrasive cloths, including paper towels and other materials with rough surfaces.
+
+From [specs on Motorola UK][specs]:
+
+> Water Resistant
+>
+> Whether you're going for a run or taking a call in the rain, a water-repellent design keeps your phone protected inside and out.
+>
+> Design ... Water repellent design ...
+>
+> Water-repellent design creates a barrier to help protect against moderate exposure to water such as accidental spills, splashes, or light rain.
+> Not designed to be submerged in water, or exposed to pressurised water, or other liquids; may diminish over time.
+> Not waterproof.
 
 ## OmniROM and Motorola One Hyper
 
