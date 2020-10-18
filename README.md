@@ -1,5 +1,10 @@
 # 2020-motorola-one-hyper
 
+Motorola One Hyper specs:
+* [Motorola UK](https://www.motorola.co.uk/smartphones-motorola-one-hyper/p).
+* [Lenovo UK](https://www.lenovo.com/gb/en/phones/moto/motorola-one/motorola-one-hyper/p/PMIPMCI21MJ).
+* [GSMArena](https://www.gsmarena.com/motorola_one_hyper-9944.php).
+
 [How to installe OmniROM](https://docs.omnirom.org/Installing_Omni_on_your_device):
 1. Unlock the bootloader.
    ...
