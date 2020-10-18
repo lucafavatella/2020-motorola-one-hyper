@@ -119,7 +119,9 @@ From [Where can I obtain the USB drivers for my device?](https://support.motorol
 > Motorola Device Manager contains USB drivers and software to connect your Motorola phone or tablet to your computer using a USB cable.
 >
 > System Requirements:
+>
 > Windows® | Mac OS X®
+> --- | ---
 > ... | ...
 > Windows 10® | Mac OS® 10.10 Yosemite
 > [32 bit](https://motorola-global-portal.custhelp.com/euf/assets/downloads/Motorola_Mobile_Drivers_32bit.msi) | [Mac](http://www.motorola.com/getmdmmac)
