@@ -99,3 +99,13 @@ From [Bootloader - Re-lock a device and revert to original software](https://sup
 > PLEASE NOTE: Re-locking a device will not reinstate your device warranty as damage might have occurred when the device was unlocked.
 >
 > To return to Original Software, you will need to reflash a Motorola signed software image to your device ... .
+
+From [Where can I obtain the USB drivers for my device?](https://support.motorola.com/uk/en/products/cell-phones/motorola-one-family/motorola-one-hyper/documents/MS89881):
+> Motorola Device Manager contains USB drivers and software to connect your Motorola phone or tablet to your computer using a USB cable.
+>
+> System Requirements:
+> Windows® | Mac OS X®
+> ... | ...
+> Windows 10® | Mac OS® 10.10 Yosemite
+> [32 bit](https://motorola-global-portal.custhelp.com/euf/assets/downloads/Motorola_Mobile_Drivers_32bit.msi) | [Mac](http://www.motorola.com/getmdmmac)
+> [64 bit](https://motorola-global-portal.custhelp.com/euf/assets/downloads/Motorola_Mobile_Drivers_64bit.msi) |
