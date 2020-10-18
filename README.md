@@ -12,6 +12,8 @@ This document describes how to install OmniROM on Motorola One Hyper.
 
 [specs]: https://www.motorola.co.uk/smartphones-motorola-one-hyper/p
 
+[Qualcomm® Snapdragon™ 675](https://www.qualcomm.com/products/snapdragon-675-mobile-platform) mentions in its [product brief](https://www.qualcomm.com/media/documents/files/snapdragon-675-mobile-platform-product-brief.pdf) part number SM6150.
+
 ### Disinfecting
 
 From [Cleaning your Motorola phone](https://support.motorola.com/uk/en/products/cell-phones/motorola-one-family/motorola-one-hyper/documents/MS149245):
@@ -126,3 +128,8 @@ From [Where can I obtain the USB drivers for my device?](https://support.motorol
 > Windows 10® | Mac OS® 10.10 Yosemite
 > [32 bit](https://motorola-global-portal.custhelp.com/euf/assets/downloads/Motorola_Mobile_Drivers_32bit.msi) | [Mac](http://www.motorola.com/getmdmmac)
 > [64 bit](https://motorola-global-portal.custhelp.com/euf/assets/downloads/Motorola_Mobile_Drivers_64bit.msi) |
+
+## Install TWRP recovery on Motorola One Hyper
+
+There is no [official TWRP build for Motorola](https://twrp.me/Devices/Motorola/) One Hyper.
+There is an [unofficial one on XDA](https://forum.xda-developers.com/motorola-one-hyper/development/recovery-twrp-3-4-0-0-t4155573).
