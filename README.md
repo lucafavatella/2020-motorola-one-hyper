@@ -4,11 +4,22 @@ This document describes how to install OmniROM on Motorola One Hyper.
 
 ## Motorola One Hyper
 
-Specs:
+### Specs
 
 * [Motorola UK](https://www.motorola.co.uk/smartphones-motorola-one-hyper/p).
 * [Lenovo UK](https://www.lenovo.com/gb/en/phones/moto/motorola-one/motorola-one-hyper/p/PMIPMCI21MJ).
 * [GSMArena](https://www.gsmarena.com/motorola_one_hyper-9944.php).
+
+### Disinfecting
+
+[Cleaning your Motorola phone](https://support.motorola.com/uk/en/products/cell-phones/motorola-one-family/motorola-one-hyper/documents/MS149245)
+> It is OK to use disinfecting wipes with 70% isopropyl alcohol to gently wipe your display.
+> When disinfecting or cleaning your device, we recommend that you turn it off and avoid getting any moisture in its openings, including the charging port, headphone jack, microphones and speakers.
+>
+> Do not submerge your Motorola phone in any cleaning agents, avoid using any cleaners with bleach or abrasives, and avoid spraying cleaners directly on the screen.
+
+> While this does not disinfect your Motorola phone, the best way to keep your Motorola phone clean is to wipe it thoroughly with a dry soft cloth.
+> Avoid abrasive cloths, including paper towels and other materials with rough surfaces.
 
 ## OmniROM and Motorola One Hyper
 
