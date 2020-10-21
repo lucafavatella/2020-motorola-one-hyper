@@ -134,6 +134,11 @@ From [Where can I obtain the USB drivers for my device?](https://support.motorol
 There is no [official TWRP build for Motorola](https://twrp.me/Devices/Motorola/) One Hyper.
 There is an [unofficial one on XDA](https://forum.xda-developers.com/motorola-one-hyper/development/recovery-twrp-3-4-0-0-t4155573).
 
+That XDA thread links to:
+* https://github.com/TeamWin/android_bootable_recovery
+
+Unclear whether https://github.com/TeamWin/android_kernel_xiaomi_sm6150 fits.
+
 There is a [device-agnostic TWRP build guide on XDA](https://forum.xda-developers.com/showthread.php?t=1943625).
 
 ## Build OmniROM for Motorola One Hyper
