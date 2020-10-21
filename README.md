@@ -135,3 +135,12 @@ There is no [official TWRP build for Motorola](https://twrp.me/Devices/Motorola/
 There is an [unofficial one on XDA](https://forum.xda-developers.com/motorola-one-hyper/development/recovery-twrp-3-4-0-0-t4155573).
 
 There is a [device-agnostic TWRP build guide on XDA](https://forum.xda-developers.com/showthread.php?t=1943625).
+
+## Build OmniROM for Motorola One Hyper
+
+There is a [thread on XDA](https://forum.xda-developers.com/motorola-one-hyper/development/rom-omnirom-t4044405).
+That thread links to:
+* https://github.com/boulzordev/kernel_motorola_sm6150
+* https://github.com/boulzordev/device_motorola_def
+
+Unclear whether and how https://github.com/boulzordev/device_motorola_def fits.
