@@ -137,9 +137,30 @@ There is an [unofficial one on XDA](https://forum.xda-developers.com/motorola-on
 That XDA thread links to:
 * https://github.com/TeamWin/android_bootable_recovery
 
+that may sufficient thanks to [this change](https://gerrit.omnirom.org/c/android_packages_apps_OmniChange/+/36780/1/app/src/main/assets/projects.xml)
+merged to branch `android-10` in [an OmniROM repo without public Web UI]("https://gerrit.omnirom.org/android_packages_apps_OmniChange")
+that mentions for device named "Moto One Hyper" coded "def" the repos
+* android_device_motorola_def
+* android_kernel_motorola_sm6150
+* android_device_qcom_caf-sepolicy
+* android_packages_apps_SnapdragonCamera2
+* android_vendor_qcom_opensource_commonsys
+
+that are present in [the OmniROM GitHub organization](https://github.com/omnirom).
+
 Unclear whether https://github.com/TeamWin/android_kernel_xiaomi_sm6150 fits.
 
 There is a [device-agnostic TWRP build guide on XDA](https://forum.xda-developers.com/showthread.php?t=1943625).
+
+That guide mentions the possibility to work "with a smaller tree" if "you are only interested in building TWRP", though not guaranteed to work.
+The mentioned [GitHub organization](https://github.com/minimal-manifest-twrp)
+presents primarily https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni
+that has also branch `twrp-10.0` and that instructs to run:
+```
+repo init --depth=1 -u git://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git -b twrp-10.0
+repo sync
+sh -c 'export ALLOW_MISSING_DEPENDENCIES=true; . build/envsetup.sh; lunch omni_def-eng; mka recoveryimage'
+```
 
 ## Build OmniROM for Motorola One Hyper
 
